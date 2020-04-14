@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Android Components Example</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tag">Let\'s join us and \nBuild your relationship with others</string>
+    <string name="facebook_app_id">255032045634928</string>
+    <string name="fb_login_protocol_scheme">fb255032045634928</string>
+
+
+    errors:
+    <string name="emptyField">Campo vacio</string>
+    <string name="mailFormat">Formato incorrecto</string>
+    <string name="phoneFormat">Formato incorrecto</string>
+    <string name="passwordWrong">La contraseña no coincide</string>
+    <string name="back_to_options">Back to login options</string>
+
 </resources>
